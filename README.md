@@ -22,9 +22,29 @@ With robust preprocessing and data augmentation techniques, the model achieves h
 
 ---
 
+## 🛠️ **Prerequisites**
+Before running the project, ensure you have the following:
+1. **Python**: Version 3.10 or higher.
+2. **Python IDE**: Any IDE of your choice.
+3. **Virtual Environment**: Recommended to manage dependencies.
+4. **Required Libraries**: TensorFlow, Keras, NumPy, Pandas, Matplotlib, Seaborn, and others listed in `requirements.txt`.
+
+---
+
 ## 🛠️ **Setup and Installation**
 
 1. Clone this repository:
    ```bash
    git clone https://github.com/pSahoo-456/emotion-recognition.git
    cd emotion-recognition
+2. Install Dependencies
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## 🤝 **Contributing**
+Contributions are welcome! 
+
+
+
+
