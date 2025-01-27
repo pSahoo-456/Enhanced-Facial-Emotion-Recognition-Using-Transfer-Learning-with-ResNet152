@@ -43,7 +43,7 @@ Before running the project, ensure you have the following:
    ```
 
 ## 🤝 **Contributing**
-Contributions are welcome! 
+Contributions are welcome!
 
 
 
